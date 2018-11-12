@@ -8,5 +8,5 @@ open-source. Hoepfully, it will help students to learn FFT.
 
 ## Examples
 
-![alt-text-1](i./Examples/lena.png "title-1") ![alt-text-2](./Examples/lena_fft.png "title-2") ![alt-text-2](./Examples/lena_cfft.png "title-3")
+![alt-text-1](./Examples/lena.png "title-1") ![alt-text-2](./Examples/lena_fft.png "title-2") ![alt-text-2](./Examples/lena_cfft.png "title-3")
 
